@@ -17,8 +17,8 @@ class Node:
         self.children.append(Node(name))
         return self
 
-	def dfs(self, array):
-		array.append(self.name)
-		for child in self.children:
-			child.dfs(array)
-		return array
+    def depth_first_search(self, array):
+        array.append(self.name)
+        for child in self.children:
+            child.depth_first_search(array)
+        return array
