@@ -1,4 +1,4 @@
-def find_three_largest_number(array):
+def find_three_largest_numbers(array):
     largest_three = [None, None, None]
     for num in array:
         update_largest(largest_three, num)
