@@ -1,3 +1,6 @@
+# modularize functionality into functions
+
+
 def find_three_largest_numbers(array):
     largest_three = [None, None, None]
     for num in array:
