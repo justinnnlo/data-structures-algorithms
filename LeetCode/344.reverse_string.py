@@ -1,4 +1,7 @@
 # swapping in place -> hence nothing to return
+# python way of swapping is so much better than the javascript way
+
+
 def reverse_string(s):
     """
     Do not return anything, modify s in-place instead.
