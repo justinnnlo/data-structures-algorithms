@@ -1,5 +1,5 @@
 # swapping in place -> hence nothing to return
-def reverseString(s):
+def reverse_string(s):
     """
     Do not return anything, modify s in-place instead.
     """

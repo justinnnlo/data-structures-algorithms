@@ -1,4 +1,4 @@
-def twoSum(nums, target):
+def two_sum(nums, target):
     cache = {}
 
     for i in range(len(nums)):

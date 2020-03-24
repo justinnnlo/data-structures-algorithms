@@ -1,4 +1,4 @@
-def maxProfit(prices):
+def max_profit(prices):
 	  if not prices:
         return 0
     max_profit, min_price = 0, prices[0]
