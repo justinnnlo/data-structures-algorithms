@@ -16,4 +16,4 @@ def is_palindrome(s):
     return True
 
 
-print(isPalindrome("A man, a plan, a canal: Panama"))
+print(is_palindrome("A man, a plan, a canal: Panama"))

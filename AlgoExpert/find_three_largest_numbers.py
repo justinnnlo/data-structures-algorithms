@@ -23,4 +23,4 @@ def shift_and_update(arr, num, idx):
             arr[i] = arr[i+1]
 
 
-print(find_three_largest_number([10, 5, 9, 10, 12]))
+print(find_three_largest_numbers([10, 5, 9, 10, 12]))

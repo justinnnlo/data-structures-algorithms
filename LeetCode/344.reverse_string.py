@@ -16,4 +16,4 @@ def reverse_string(s):
         end -= 1
 
 
-print(reverseString(["h", "e", "l", "l", "o"]))
+print(reverse_string(["h", "e", "l", "l", "o"]))
